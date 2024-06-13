@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Amanda14!$",
+    "database": "couples_connect3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Amanda14!$",
+    "database": "couples_connect3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Amanda14!$",
+    "database": "couples_connect3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
